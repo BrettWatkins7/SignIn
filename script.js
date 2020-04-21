@@ -1,6 +1,5 @@
 var users = [["Brett", "Red"], ["Tricia", "Orange"], ["Derek", "Green"]];
 
-console.log(users[0][1]);
 
 function Submit(){
   var user = document.getElementById("userName").value;
